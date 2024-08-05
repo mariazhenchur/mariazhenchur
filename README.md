@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at SoftServe currently focused on studying React, passionate about exploring the realms of coding and building web-applications.
+I'm a student at SoftServe Academy currently focused on studying React, passionate about exploring the realms of coding and building web-applications.
 
 
 ## 🌐 Socials:
