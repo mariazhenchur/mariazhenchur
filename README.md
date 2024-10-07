@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at SoftServe Academy currently focused on studying React, passionate about exploring the realms of coding and building web-applications.
+I've lately finished my studying in a WebUI/Front-end Developer course at SoftServe Academy. I am currently focused on improving my React skills, passionate about exploring the realms of coding and building web-applications.
 
 
 ## 🌐 Socials:
