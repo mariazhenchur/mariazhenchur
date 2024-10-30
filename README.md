@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've lately graduated from a WebUI/Front-end Developer course at SoftServe Academy. I am currently focused on improving my React skills, passionate about exploring the realms of coding and building web-applications.
+I've recently graduated from a WebUI/Front-end Developer course at SoftServe Academy. I am currently focused on improving my React skills, passionate about exploring the realms of coding and building web-applications.
 
 
 ## 🌐 Socials:
